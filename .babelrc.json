@@ -1,0 +1,3 @@
+{
+  plugins: [['@babel/proposal-pipeline-operator', { proposal: 'minimal' }]]
+}
